@@ -1,0 +1,10 @@
+/* Estilos Generales */
+
+html,
+body {
+    background-color: #f2f2f2;
+}
+
+img {
+    max-width: 200px;
+}
